@@ -1,0 +1,5 @@
+project_code.txt
+node_modules
+.qodo
+package-lock.json
+.env
