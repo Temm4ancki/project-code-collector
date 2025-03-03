@@ -120,6 +120,7 @@ export interface ProgramOptions {
     '*.class',
     '*.jar',
     '*.war',
-    '*.ear'
+    '*.ear',
+    '*.bat'
   ];
   
